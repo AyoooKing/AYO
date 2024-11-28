@@ -1,0 +1,11 @@
+D:\GitCode\AYO\AYO.Helper\bin\Debug\log4net.config
+D:\GitCode\AYO\AYO.Helper\bin\Debug\AYO.Helper.dll
+D:\GitCode\AYO\AYO.Helper\bin\Debug\AYO.Helper.pdb
+D:\GitCode\AYO\AYO.Helper\bin\Debug\log4net.dll
+D:\GitCode\AYO\AYO.Helper\bin\Debug\log4net.pdb
+D:\GitCode\AYO\AYO.Helper\bin\Debug\log4net.xml
+D:\GitCode\AYO\AYO.Helper\obj\Debug\AYO.Helper.csproj.AssemblyReference.cache
+D:\GitCode\AYO\AYO.Helper\obj\Debug\AYO.Helper.csproj.CoreCompileInputs.cache
+D:\GitCode\AYO\AYO.Helper\obj\Debug\AYO.Helper.csproj.CopyComplete
+D:\GitCode\AYO\AYO.Helper\obj\Debug\AYO.Helper.dll
+D:\GitCode\AYO\AYO.Helper\obj\Debug\AYO.Helper.pdb
