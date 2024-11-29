@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Globalization;
 using System.Linq;
 using System.Text;
-using AYO.Helper.Enums;
+using AYO.Link.Enums;
 
-namespace AYO.Helper.CommonHelper
+namespace AYO.Link.Common
 {
     public static class StringExtensions
     {
@@ -36,7 +36,7 @@ namespace AYO.Helper.CommonHelper
         {
             string rText = String.Empty;
             var bytes = new List<byte>();
-            
+
             for (int i = 0; i < str.Length; i += 2)
             {
                 var val = Convert.ToByte(str.Substring(i, 2), 16);
@@ -54,7 +54,7 @@ namespace AYO.Helper.CommonHelper
                     bytes.Add(val);
                 }
             }
-            
+
             if (bytes.Any())
             {
                 rText += encoding.GetString(bytes.ToArray());

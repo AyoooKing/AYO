@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32519.379
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AYO.Helper", "AYO.Helper\AYO.Helper.csproj", "{125C1D5D-65DE-492D-8535-105DF35576D1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AYO.Link", "AYO.Helper\AYO.Link.csproj", "{125C1D5D-65DE-492D-8535-105DF35576D1}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AYO.UnitTest", "AYO.UnitTest\AYO.UnitTest.csproj", "{92A8B939-8F91-448A-940E-276E269F1188}"
 EndProject

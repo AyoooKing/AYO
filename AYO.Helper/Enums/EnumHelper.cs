@@ -1,9 +1,9 @@
 using System;
 using System.ComponentModel;
 
-namespace AYO.Helper.Enums
+namespace AYO.Link.Enums
 {
-    public  static class EnumHelper
+    public static class EnumHelper
     {
         public static string GetEnumDescription(Enum value)
         {

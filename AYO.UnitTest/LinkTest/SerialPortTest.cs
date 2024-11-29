@@ -1,12 +1,12 @@
 ﻿using System.Text;
-using AYO.Helper.LogHelper;
-using AYO.Helper.SerialPortHelper;
+using AYO.Link.Log4Net;
+using AYO.Link.SerialPortBase;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
-namespace AYO.UnitTest.SerialPortClientTest
+namespace AYO.UnitTest
 {
     [TestClass]
-    public class UnitTest2
+    public class SerialPortTest
     {
         [TestMethod]
         public void SerialPortClientTest()

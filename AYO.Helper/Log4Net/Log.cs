@@ -1,7 +1,7 @@
 ﻿using System;
 using log4net;
 
-namespace AYO.Helper.LogHelper
+namespace AYO.Link.Log4Net
 {
     /// <summary>
     /// 日志类

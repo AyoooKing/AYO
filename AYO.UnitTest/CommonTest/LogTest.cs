@@ -1,9 +1,8 @@
-﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
+﻿using AYO.Link.Log4Net;
+using AYO.Link.Common;
+using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System;
 using System.Text;
-using AYO.Helper;
-using AYO.Helper.CommonHelper;
-using AYO.Helper.LogHelper;
 
 namespace AYO.UnitTest
 {
@@ -42,7 +41,7 @@ namespace AYO.UnitTest
         {
             Log.Fatal("LogFatal");
         }
-        
+
         [TestMethod]
         public void HexToTextTest()
         {
